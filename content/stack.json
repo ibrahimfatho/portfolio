@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "name": "HTML",
+      "icon": "custom:html5"
+    },
+    {
+      "name": "CSS",
+      "icon": "custom:css"
+    },
+    {
+      "name": "nextjs",
+      "icon": "custom:javascript"
+    },
+        {
+      "name": "TypeScript",
+      "icon": "skill-icons:typescript"
+    },
+    {
+      "name": "React",
+      "icon": "custom:react"
+    },
+    {
+      "name": "Tailwind",
+      "icon": "custom:tailwind"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "devicon:bootstrap"
+    },
+    {
+      "name": "Nextjs",
+      "icon": "logos:nextjs-icon"
+    },
+
+
+    {
+      "name": "Flutter",
+      "icon": "custom:flutter"
+    },
+    {
+      "name": "Dart",
+      "icon": "custom:dart"
+    },
+        {
+      "name": "Vue",
+      "icon": "custom:vue"
+    },
+    {
+      "name": "Vercel",
+      "icon": "custom:vercel"
+    },
+    {
+      "name": "Notion",
+      "icon": "custom:notion"
+    },
+    {
+      "name": "Figma",
+      "icon": "custom:figma"
+    },
+    {
+      "name": "Photoshop",
+      "icon": "custom:photoshop"
+    },
+    {
+      "name": "Illustrator",
+      "icon": "custom:illustrator"
+    },
+    {
+      "name": "Premiere",
+      "icon": "custom:premiere"
+    },
+    {
+      "name": "After Effects",
+      "icon": "custom:aftereffects"
+    }
+  ]
+}

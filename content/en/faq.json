@@ -1,0 +1,69 @@
+{
+  "title": "FAQ",
+  "subtitle": "Things I get asked a lot",
+  "faqQuestions": [
+    {
+      "title": "Services",
+      "questions": [
+        {
+          "label": "What services do you provide?",
+          "content": "I mainly offer web and mobile development services, in addition to digital design and consulting. My goal is to help you build high-quality products that meet your needs and the needs of your users."
+        },
+        {
+          "label": "Can you redesign an existing website?",
+          "content": "Absolutely, I can analyze your current website and either completely redesign it or partially improve its user experience, performance, and overall look."
+        },
+        {
+          "label": "Do you work on small projects?",
+          "content": "Yes, I take on small and medium-sized projects, as long as the project requirements are clear and can be executed with high quality."
+        }
+      ]
+    },
+    {
+      "title": "Pricing",
+      "questions": [
+        {
+          "label": "How much does a project cost?",
+          "content": "The cost of a project depends on several factors, such as the scale of the project, its features, development time, and others."
+        },
+        {
+          "label": "How does payment work for a project?",
+          "content": "I require a 40% upfront deposit before starting the project, and the remaining 60% after successful delivery. I accept payments via bank transfer, PayPal, etc."
+        },
+        {
+          "label": "How long does a project take?",
+          "content": "It's difficult to give an exact estimate because every project is different, but the majority of my past work has taken between two weeks and two months."
+        },
+        {
+          "label": "Are there any hidden or additional fees?",
+          "content": "Any additional costs (such as hosting, domains, or third-party services) are strictly clarified upfront before starting the project."
+        },
+        {
+          "label": "Do you offer discounts?",
+          "content": "I offer a 15% discount for students and non-profit organizations."
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "label": "What do you enjoy most about this work?",
+          "content": "I love learning new things and the ability to create almost anything from scratch, making beautiful things that people use and enjoy."
+        },
+        {
+          "label": "How do you continuously develop your skills?",
+          "content": "I make sure to stay up-to-date with the latest technologies and design trends, applying them practically in real projects to ensure I deliver top-tier quality."
+        },
+        {
+          "label": "What sets you apart from others?",
+          "content": "A strong focus on details, blending both design and development, and caring about user experience practically rather than just theoretically."
+        },
+        {
+          "label": "How do you handle work pressure?",
+          "content": "I rely on time management and prioritizing tasks, maintaining high-quality work without compromising deadlines."
+        }
+      ]
+    }
+  ]
+}

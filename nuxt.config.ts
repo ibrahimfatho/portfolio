@@ -21,7 +21,6 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxtjs/seo',
     '@nuxt/content',
-    'nuxt-studio',
     '@nuxt/image',
     '@nuxt/scripts',
     'vue-sonner/nuxt',
@@ -133,16 +132,7 @@ export default defineNuxtConfig({
     zeroRuntime: true,
   },
 
-  studio: {
-    route: '/admin',
 
-    repository: {
-      provider: 'github',
-      owner: 'ibrahimfatho',
-      repo: 'portfolio',
-      branch: 'main',
-    },
-  },
 
   sanity: {
     projectId: 'ppn2zjd4',

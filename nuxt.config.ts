@@ -53,12 +53,7 @@ export default defineNuxtConfig({
     fallback: 'dark',
   },
 
-  content: {
-    preview: {
-      api: 'https://api.nuxt.studio',
-      dev: true,
-    },
-  },
+
 
   mdc: {
     highlight: {
